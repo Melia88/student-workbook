@@ -1,3 +1,11 @@
 # Day 1 - Intro Codeworks
 
-What I learned in coding school is ______.
+What I learned in coding school is how to code.
+
+
+
+In your own words, why do we use Git?
+
+What are the benefits of having multiple branches?
+
+What is the difference between Git and GitHub
