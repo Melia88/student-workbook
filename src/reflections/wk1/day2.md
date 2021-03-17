@@ -3,12 +3,12 @@
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use? 
 
 > A **Pseudo-Class** is a keywork selector that selects an specific element(s) in a specific state. 
-
+>
 >+ button:hover{
     color: Whatever color I want;
   }
 >+ :root
-
+>
 >+ :not()
 
 ## What is Specificity and how might you use it to your benefit?
