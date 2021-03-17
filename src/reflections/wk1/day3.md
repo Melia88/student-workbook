@@ -5,7 +5,7 @@
 
 
 ## Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
->
+> https://www.w3schools.com/w3css/w3css_templates.asp 
 
 
 ## How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
