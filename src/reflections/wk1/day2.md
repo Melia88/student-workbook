@@ -4,12 +4,12 @@
 
 > A **Pseudo-Class** is a keywork selector that selects an specific element(s) in a specific state. 
 
-+ button:hover{
+>+ button:hover{
     color: Whatever color I want;
   }
-+ :root
+>+ :root
 
-+ :not()
+>+ :not()
 
 ## What is Specificity and how might you use it to your benefit?
 
