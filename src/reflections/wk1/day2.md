@@ -1,4 +1,5 @@
 # Day 2 -Html/CSS
+Daily Afternoon Challange https://github.com/Melia88/cool
 
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use? 
 
