@@ -1,6 +1,8 @@
 # Day 3 - Building with Bootstrap
 Daily Morning Challange https://github.com/Melia88/stoplight 
 
+Afternoon Challange https://github.com/Melia88/practice-bootstrap
+
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 >Less is more. Use accent borders, change the color and weight of font, and not all buttions need background colors; there is usually only one primary button and thats the one that should have a background.
 
