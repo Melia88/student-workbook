@@ -14,7 +14,7 @@ Dribble Behance are great sites for inspration.
 ## What are the different levels of detail in wire-frames and why is each one useful?
 > Low-fidelity- this is the bare bones completely basic layout of a page, including only blocks, shapes and mok content. It can be scketched out very quickly to show the basic concept and work out any immediate issues with design layout.
 > Med-fidelity- Most commonly used and gives a bit more detail to specific components withon the layout. There is clear definition and often varying weights are used in text to seporate content, these are usually created digitally.
-> High-fidelity- Most detailed using pixle specifc layouts, actual featured images and relevent written content. This is ideal for exploring interactive features and menu systems.
+> High-fidelity- Most detailed using pixle specifc layouts, actual featured images and relevent written content. This is the most detailed of the three.
 
 
 ## Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not? 
