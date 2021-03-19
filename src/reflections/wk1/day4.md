@@ -18,4 +18,4 @@ Dribble Behance are great sites for inspration.
 
 
 ## Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not? 
-> I think wireframing is an amazing tool that can not only give you the framework to start but also save tons of time in the development stages while also allowing you to create a user conscious page.
+> I think wireframing is an amazing tool that can not only give you the framework to start but also save tons of time in the development stages while also allowing you to create a user conscious page that is already proven to be a hit with consumers.
