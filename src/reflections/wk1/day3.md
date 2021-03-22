@@ -1,5 +1,5 @@
 # Day 3 - Building with Bootstrap
-Daily Morning Challange https://github.com/Melia88/stoplight 
+Daily Morning Challenge https://github.com/Melia88/stoplight 
 
 Afternoon Challange https://github.com/Melia88/practice-bootstrap
 
