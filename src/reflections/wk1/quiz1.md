@@ -2,7 +2,8 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-``` CD allow you to change directory you are in.
+``` 
+CD allow you to change directory you are in.
 
 ```
 
@@ -66,7 +67,8 @@ font-weight: bold;
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
-``` Uses flex-grow, flex-shrink, and flex-basis  to set the length of flexible items. Makes mobile viewing display page content properly.
+```
+ Uses flex-grow, flex-shrink, and flex-basis  to set the length of flexible items. Makes mobile viewing display page content properly.
 
 ```
 
