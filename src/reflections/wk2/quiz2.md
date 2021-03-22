@@ -3,16 +3,23 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
+Var - Declares a variable with a global scope.
+
+Let - Declares a variable with a local scope.
+
+Const - Declares a variable with a local scope, however it's value cannot be changed after declaration.
 
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
+A function is a reusable set of statements to preform a task or calculate a value.
 
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+
 
 ```
 **4.** Given this array: 
@@ -22,6 +29,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
+Pineapple is in index 2 because apple is in index 0 and banana is in index 1. This is an array and every array starts at 0.
 
 ```
 **5.** With these two objects: 
@@ -47,18 +55,22 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
+ That space is called final-expression. To increase i by one on every iteration you apply i++ to the final-expression space.
 
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
+DOM stands for Document Object Model
+
 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+ 
+ 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
