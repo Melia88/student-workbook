@@ -10,14 +10,12 @@ Daily Challenge
     var greeter = "hey hi";   <<<<this is globally scoped because it exists outside of a function /////
  
     function newFunction() {      
-                                <<<<this locally scoped
-         var hello = "hello";    because 
-    }                            it exists    within a function.                        
-                                  We cannot 
-                                  access the 
-                                  variable hello outside of this
-                                   function ////
- 
+
+         var hello = "hello";    
+    } 
+      <<<<<This is locally scoped because it exists within a function and cannot be accessed outside of that function. This means the variable hello cannot be accessed outside of this function.
+
+
  
 ## What is Hoisting ?
 > Hoisting is part of a multi step process that occurs when creating an element with var,let, or const that tells the code to “hoist” the element to be read first before the value is applied.
