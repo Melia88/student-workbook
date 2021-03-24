@@ -1,6 +1,6 @@
 Day 2 Intro to JS > JavaScript Functions
 
-Daily Challange
+Daily Challange https://github.com/Melia88/js-tests-loops-and-arrays
 
 ## What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 >Function Declaration defines a named function. Function definition is hoisted. To write; Function keyword followed by the name of the function //SYNTAX// 
@@ -34,4 +34,6 @@ twoParams(arg1, arg2)
  
  
 ## What are higher order functions? Can you provide an example?
->A higher order function is aa function that accepts and/or returns another function. 
+>A higher order function is a function that accepts and/or returns another function. 
+
+

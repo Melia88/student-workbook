@@ -1,6 +1,6 @@
 Day 1 Intro to JS > Var
  
-Daily Challenge
+Daily Challenge https://github.com/Melia88/js-tests-basics
  
  
 ## What is Scope ? 
