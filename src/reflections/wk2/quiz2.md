@@ -104,7 +104,7 @@ null : typeof instance === "object". Special primitive type having additional us
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-A parameter is basically a place holder that can pass other values
+A parameter is basically a place holder in a function that can pass other values into that function. This keeps the function versatile and not bound by a certain list of values.
 
 An argument are those values we want to pass through the parameter
 
