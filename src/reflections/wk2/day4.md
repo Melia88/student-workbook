@@ -11,4 +11,4 @@ Daily Challange
 
 
 ## From the entire article what are your biggest takeaways?
->
+> My biggest takeaways from the article were that it is really good to plan things out but that there is a point where you can over plan. Also that I shouldnt expect to know everythig and inface if I think I do know everything than Im doing something wrong. I should always question code and if there are other ways to do things and if I need help I need to ask/research. Its good to make mistakes and its good to get error messages because it means I'm making progress and it gives me an idea of what needs to be fixed.

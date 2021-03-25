@@ -1,6 +1,6 @@
 Day 3 Intro to JS > Chrome Developer Tools
 
-Daily Challange
+Daily Challange https://github.com/Melia88/rock-paper-scissors
 
 
 ## What are the main ways to write information to the console? Why/when should you use each style.
