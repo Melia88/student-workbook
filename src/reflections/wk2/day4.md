@@ -1,6 +1,6 @@
 Day 4
 
-Daily Challange
+Daily Challange https://github.com/Melia88/slap-game.git
 
 ## What are the benefits of making a plan before starting to just write the code?
 > Making a plan before you start coding allows you to save time and gives you the ability to map out your problem and how to solve it/what you need to do.
