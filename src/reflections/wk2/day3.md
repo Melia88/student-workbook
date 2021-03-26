@@ -6,6 +6,7 @@ Daily Challange https://github.com/Melia88/rock-paper-scissors
 ## What are the main ways to write information to the console? Why/when should you use each style.
 > console.log()
   console.error('error.message')
+  console.warn('warning!!')
 
 
 ## Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML?
