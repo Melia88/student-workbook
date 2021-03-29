@@ -45,20 +45,18 @@ let them = { name:"Them", hair: false, friends: [] }
 ```
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
-```
- >>>><<<<IM NOT SURE QUITE HERE><<<>>>  you.push(['them'])    ?????
-
+```js
+ // >>>><<<<IM NOT SURE QUITE HERE><<<>>>  
+ you.push(them)    
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
-```
+```js
 function example (hi)
  if(i=0; i == hi ; i++){
    return true
  }
-
-
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
