@@ -3,6 +3,15 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
+The four pillars of OOP:
+  Encapsulation: accomplished when each object maintains a private state, inside a class.
+
+  Abstraction: an extension of encapsulation. The process of fetching/removing/selecting the user information/data from a larger pool to show only the relevant details to the object. Finding things that are similar in your code and providing a generic function or object to serve multiple places/with multiple concerns.
+
+  Inheritance: the ability of one object to acquire some/all properties of another object.
+
+  Polymorphism: the condition of occurring in several different forms. That's exactly what the fourth and final pillar is concerned with – types in the same inheritance chains being able to do different things
+
 
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
@@ -21,7 +30,7 @@ let property = 'name'
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is the process of storing like data in a constructor where it is kept private until it is called by a method within it.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -31,7 +40,9 @@ let property = 'name'
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
+A class is the blueprint, like the concept and idea.
 
+An instance of a class is the physical object of a class. 
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
