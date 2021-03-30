@@ -1,6 +1,6 @@
 Day 1
 
-Daily Challange
+Daily Challange https://github.com/Melia88/zoo-keeper.git
 
 
 
@@ -16,4 +16,4 @@ How does export differ from export default?
 
 What is a benefit of using the Module System?
 
->
+> There are multiple benifits to using the Module System is increased effeciency and orginization as well as allowing the imports and exports to work. 
