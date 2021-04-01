@@ -25,6 +25,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
+name.tim
 
 ```
 **3.** What is Encapsulation?
@@ -35,7 +36,7 @@ Encapsulation is the process of storing like data in a constructor where it is k
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+The 'S' in SOLID stands for the single responsibility principle.
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
@@ -47,28 +48,28 @@ An instance of a class is the physical object of a class.
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+A Proxy object is a essentially photocopy of an object making it a duplicate but not the real thing.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+MVC's purpose is to seporate the display and the data which allows each to change without affecting the other. It also makes the processes more efficent so load time is better.
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+The controllers job is to call functions based on what it recieves from the DOM(like the button the user clicked), interpret and clean up the data and then send it to service.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+Services job is to change and minipulate the data.
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+The Model is what hold the blueprint for the object data.
 ```
 

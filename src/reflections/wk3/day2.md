@@ -1,6 +1,6 @@
 Day 2
 
-Daily Challange
+Daily Challange https://github.com/Melia88/slap-encap
 
 
 Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
