@@ -12,4 +12,4 @@ What are the three mechanisms of the observer pattern?
 broadcast which will execute all events with bound data.
 
 Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
->
+> The bcw-template uses the MVCS to connect to the dom and share responsibility with other files. Proxy objects are housed in the AppState where all data is stored and the Proxy acts as a copy for all data that is then passed into the other files who import it. The observer patten is set to watch for changes to the Proxy object and then ones a change occurs initiates the draw function to then render the information onto the DOM.

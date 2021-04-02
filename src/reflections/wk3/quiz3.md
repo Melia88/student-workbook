@@ -59,7 +59,7 @@ MVC's purpose is to seporate the display and the data which allows each to chang
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-The controllers job is to call functions based on what it recieves from the DOM(like the button the user clicked), interpret and clean up the data and then send it to service.
+The controllers job is to call functions based on what it recieves from the DOM(like the button the user clicked), interpret and clean up the data(pull the value of whats input) and then send it to service.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
@@ -70,6 +70,6 @@ Services job is to change and minipulate the data.
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-The Model is what hold the blueprint for the object data.
+The Model is what hold the blueprint for the object data and templates.
 ```
 
