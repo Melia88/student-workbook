@@ -5,6 +5,7 @@ Daily Challenge
 Read Asynchronous Code > What is REST and answer the following questions
 
 What does REST stand for, and in simple terms what does it mean?
+> REST stands for Representational state transfer.
 
 What does Stateless mean?
 
