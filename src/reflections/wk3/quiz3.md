@@ -10,7 +10,7 @@ The four pillars of OOP:
 
   Inheritance: the ability of one object to acquire some/all properties of another object.
 
-  Polymorphism: the condition of occurring in several different forms. That's exactly what the fourth and final pillar is concerned with – types in the same inheritance chains being able to do different things
+  Polymorphism: the condition of occurring in several different forms. That is what the fourth and final pillar is concerned with – types in the same inheritance chains being able to do different things
 
 
 ```
