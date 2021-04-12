@@ -1,6 +1,6 @@
 Day 2
 
-Daily Challenge
+Daily Challenge https://github.com/Melia88/spring21-gregslist-mvc
 
 Read Asynchronous Code > JavaScript Promises and answer the following questions
 
