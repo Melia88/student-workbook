@@ -11,4 +11,4 @@ What is the format of a query parameter? How does it start? How do you distingui
 >  ?key=value for more than on parameter you add an & between the params. ?key=value&key=value
 
 When do you think Query parameters would be helpful when writing your server?
-> I think it may be helpful to use query params 
+> I think it may be helpful to use query params when youre client is trying to find a specific thing or when you need to filter to find only a specific item, model, brand, color, etc. 
