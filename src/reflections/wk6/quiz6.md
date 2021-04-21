@@ -13,7 +13,7 @@ vue create
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+The Component is used to repeat and element using a collection of data.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
@@ -38,7 +38,7 @@ The AppState is globally accessible with an import whereas the state object is o
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+The service still does the same thing that it did in MVCS. It changes and minipulates data & communicates with AppState.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
