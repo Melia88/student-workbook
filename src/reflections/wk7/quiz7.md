@@ -48,5 +48,5 @@ The key attribute is ued to pass something unique about each object you pass. Li
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+The slot element is used as an injector tool that can dynamically change the information being sent. Kinda like doc.getElementById. So basically if you wrap an element on a modal in a slot you can reuse the space for that element and replace the content inside using the template between the <component> <template> thats being injected (this will fill in the slot)</template> </component>
 ```
