@@ -1,6 +1,6 @@
 Day1
 
-Daily Challenge 
+Daily Challenge https://github.com/MichaelaBickish/neatpantry
 
 Reflect on your capstone project so far and answer the following questions
 
