@@ -16,6 +16,8 @@ CREATE TABLE characters(
   age VARCHAR(255) NOT NULL,
   description VARCHAR(255) NOT NULL,
   id int NOT NULL,
+  
+  PRIMARY KEY (id)
 );
 
 What is the difference between the following statements:
