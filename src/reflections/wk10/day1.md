@@ -32,7 +32,10 @@ String
 Pointer type
 
 What are the Value-type data types? What differences do you notice from JavaScript?
->
+>VARCHAR is a string in JS
+INT is a number in JS
+BOOL is bool or boolean in JS
+
 
 In your own words how do Reference types get stored in memory? How does this differ from Value types?
 > Reference types are like storing an address in gps, if you change the address in the gps you will end up with a different location. With a value type its like taking a picture of a house, the house doesnt change even if you draw changes on the picture.

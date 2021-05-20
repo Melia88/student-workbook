@@ -1,6 +1,6 @@
 Day4
 
-Afternoon Challenge
+Afternoon Challenge https://github.com/Melia88/allSpice
 
 Read Dotnet WebAPI's > Welcome to SQL, and answer the following questions
 
