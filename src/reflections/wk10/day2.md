@@ -1,6 +1,7 @@
 Day2
 
-Afternoon Challenge
+Afternoon Challenge 
+https://github.com/Melia88/spring21-artists
 
 Read Foundations of C# > C# List and answer the following questions
 

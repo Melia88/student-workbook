@@ -1,6 +1,6 @@
 Day1
 
-Afternoon Challenge
+Afternoon Challenge https://github.com/Melia88/csGregslistApi
 
 
 Read Foundations of C# > C# Data Types and answer the following questions

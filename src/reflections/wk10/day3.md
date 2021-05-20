@@ -1,6 +1,6 @@
 Day3
 
-Afternoon Challenge
+Afternoon Challenge https://github.com/Melia88/csCastleApi
 
 Read Foundations of C# > C# Enum's and answer the following questions
 
