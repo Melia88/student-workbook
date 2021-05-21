@@ -21,7 +21,7 @@ enum Tempurature
 };
 
 How can you modify an Enum?
->
+>You can assign different values to enum member. A change in the default value of an enum member will automatically assign incremental values to the other members sequentially.
 
 How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 > I have not yet but I think it could be used to make something more readable if I was using dates or something else that used an index of numbers.

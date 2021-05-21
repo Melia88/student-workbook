@@ -42,12 +42,12 @@ the data type
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+It is hiding the internal details and showing only the functionality.
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+The virtual keyword is used to modify a method, property, indexer, or event declaration and allow for it to be overridden in a derived class.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
