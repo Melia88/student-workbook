@@ -42,6 +42,8 @@ the data type
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
+Jake says abstract means it is an incomplete object that cannot be instantiated on its own and can be inhearted as a default to other areas its needed.
+
 It is hiding the internal details and showing only the functionality.
 ```
 **8.** In the example what is the purpose of `virtual`?
